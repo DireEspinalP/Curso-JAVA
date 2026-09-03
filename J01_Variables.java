@@ -1,6 +1,20 @@
 //-----------------VARIABLES-----------------
 public class J01_Variables {
     public static void main(String[] arg){
+        int numeroEntero = 10; // Entero
+        double numeroDecimal = 3.14; // Decimal
+        float numeroFlotante = 2.5f; // Flotante
+        char caracter = 'A'; // Caracter
+        boolean esVerdadero = true; // Booleano
+
+        System.out.println("Número entero: " + numeroEntero);
+        System.out.println("Número decimal: " + numeroDecimal);
+        System.out.println("Número flotante: " + numeroFlotante);
+        System.out.println("Caracter: " + caracter);
+        System.out.println("Es verdadero: " + esVerdadero);
+
+        //Combinacion de variables y texto
+
         String name="Dire";
         System.out.println("Mi nombre es " + name);
         //actualizando valor de name
