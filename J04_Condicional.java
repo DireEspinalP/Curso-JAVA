@@ -47,5 +47,6 @@ public class J04_Condicional {
         }
 
         sc.close();
+        //OBS: Este lenguaje usa mucho la logica de condicionales en C++
     }
 }
