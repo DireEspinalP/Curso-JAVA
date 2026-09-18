@@ -1,7 +1,7 @@
 //-----------------CONDICIONALES-----------------
 
 import java.util.Scanner;
-
+package fundamental;
 public class J04_Condicional {
     public static void main(String[] args){
         //If-else if- else

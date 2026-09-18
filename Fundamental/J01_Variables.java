@@ -1,4 +1,5 @@
 //-----------------VARIABLES-----------------
+package fundamental;
 public class J01_Variables {
     public static void main(String[] arg){
         int numeroEntero = 10; // Entero

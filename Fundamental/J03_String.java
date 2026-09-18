@@ -1,4 +1,5 @@
 //-----------------OPERADORES-----------------
+package fundamental;
 public class J03_String {
     public static void main(String [] arg ){
         String name="Dire";
