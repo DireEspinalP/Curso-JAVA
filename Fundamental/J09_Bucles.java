@@ -1,5 +1,4 @@
 //-----------BUCLES-----------
-package fundamental;
 public class J09_Bucles {
     public static void main(String[] args) {
         // Bucle for

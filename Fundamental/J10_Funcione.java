@@ -1,5 +1,4 @@
 import java.util.Scanner;
-package fundamental;
 public class J10_Funcione{
 
 //este "main" es una funcion solo que no sabiamos
