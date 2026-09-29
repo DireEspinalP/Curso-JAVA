@@ -6,7 +6,8 @@
  |---|---|
  | Java Basico + POO |https://youtu.be/JOAqpdM36wI?si=mh-1FVRPc46MgOK4| 
 
-
+para copilar en Java usas:
+javac HolaMundo.java
 
 
 
