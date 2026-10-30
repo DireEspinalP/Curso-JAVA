@@ -1,4 +1,4 @@
-# Ocultamiento de información
+# 5) Ocultamiento de información
 
 El ocultamiento de información restringe el acceso directo a los datos internos de un objeto mediante el uso de campos private combinados con getters y setters.
 
@@ -34,7 +34,7 @@ public class Temperature {
 - Control: Le permite decidir qué operaciones están permitidas en sus datos
 
 
-# La palabra clave final
+# 6) La palabra clave final
 La palabra clave final **impide las modificaciones** en Java. Se puede aplicar a variables, métodos y clases.
 
 Cuando se aplica a una variable, final la convierte en una constante: una vez asignado, su valor no puede cambiar:
