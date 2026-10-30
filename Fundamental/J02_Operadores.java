@@ -1,5 +1,5 @@
 //-----------------OPERADORES-----------------
-package fundamental;
+package Fundamental;
 public class J02_Operadores {
     public static void main(String [] arg){
         //Aritmeticos

@@ -1,5 +1,5 @@
 //-----------------LISTAS-----------------
-
+package Fundamental;
 import java.util.ArrayList;
 
 public class J06_Listas {

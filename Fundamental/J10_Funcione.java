@@ -1,3 +1,4 @@
+package Fundamental;
 import java.util.Scanner;
 public class J10_Funcione{
 

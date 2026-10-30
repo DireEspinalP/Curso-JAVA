@@ -1,6 +1,6 @@
 // Comentarios en Java
 // 1) // 2) /* */
-package fundamental;
+package Fundamental;
 public class J00_HelloWorld {
     public static void main(String[] args){
         System.out.println("Hello, JAVA!");

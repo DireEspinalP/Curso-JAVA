@@ -1,5 +1,5 @@
 //------------------SETS------------------
-
+package Fundamental;
 import java.util.HashSet;
 public class J07_Sets{
     public static void main(String[] args){

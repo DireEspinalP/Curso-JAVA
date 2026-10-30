@@ -1,5 +1,5 @@
 //-----------------ARRAYS-----------------
-
+package Fundamental;
 public class J05_Arrays {
     public static void main(String[] args) {
         // Declaracion y creacion
